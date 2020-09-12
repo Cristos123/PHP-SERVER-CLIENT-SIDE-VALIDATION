@@ -1,0 +1,22 @@
+PRODUCT TITLE: productId, value,createdBy
+PRODUCT SHORT DESCRIPTION: productId, value,createdBy
+PRODUCT LONG DESCRIPTION: productId, value,createdBy
+PRODUCT OFFER SCHEME: productId,price,activateableBy(0:default,1:couponCode),minimumUnit,maximumUnit,createdBy
+PRODUCT STOCK: productId, value,createdBy
+
+CART: guestId,productId,productOfferSchemeId,unitCount
+
+
+PRODUCT IMAGE
+TYPE 
+PRODUCT TYPE 
+CATEGORY
+PRODUCT CATEGORY
+COLOR
+PRODUCT COLOR
+SIZE
+PRODUCT SIZE
+REACTION
+PRODUCT OFFER SCHEME ACTIVATOR: productOfferSchemeId, value,createdBy
+PRODUCT GROUPING
+PRODUCT GROUPING IMAGE
